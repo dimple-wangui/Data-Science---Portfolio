@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Dimple 👋
 
-<!--
-**dimple-wangui/Dimple-Wangui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Aspiring Biostatistician | Applied Statistics & Data Science Student
+I am a 3rd-year student at The Cooperative University of Kenya with a passion for leveraging statistical computing to solve complex public health challenges. I specialize in turning clinical and epidemiological data into actionable insights.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Research Interests
+* **Epidemiological Modeling:** Analyzing disease spread and intervention impact.
+* **Clinical Trial Analysis:** Survival analysis and longitudinal data.
+* **Public Health Informatics:** Developing automated pipelines for health data collection.
+
+### 🛠 Tech Stack
+* **Languages:** R (Tidyverse, Bioconductor), Python (Pandas, Scipy), SQL
+* **Tools:** Power BI, Excel (Power Query), LaTeX, Notion
+* **Statistical Methods:** Regression Analysis, Hypothesis Testing, Predictive Modeling
+
+### 📈 Featured Biostatistics Projects
+* **[Project Name 1]**: (e.g., Analyzing Malaria trends in Sub-Saharan Africa using R)
+* **[Project Name 2]**: (e.g., Python-based scraper for WHO global health statistics)
+
+---
+
+### 📫 Let's Connect!
+* **LinkedIn**: [Link]
+* **Portfolio/Substack**: [Link]
+* **Currently Learning**: Advanced Epidemiology and Survival Analysis
