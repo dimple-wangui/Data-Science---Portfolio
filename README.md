@@ -21,7 +21,3 @@ I am a 3rd-year student at The Cooperative University of Kenya with a passion fo
 
 ---
 
-### 📫 Let's Connect!
-* **LinkedIn**: [Link]
-* **Portfolio/Substack**: [Link]
-* **Currently Learning**: Advanced Epidemiology and Survival Analysis
