@@ -9,4 +9,4 @@ I am a 3rd-year student  with a passion for leveraging statistical computing to 
 * **Tools:** Power BI, Excel (Power Query), 
 * **Statistical Methods:** Regression Analysis, Hypothesis Testing, Predictive Modeling
   
-**Welcome to my public building
+# Welcome to my public building
