@@ -5,7 +5,7 @@ I am a 3rd-year student  with a passion for leveraging statistical computing to 
 ---
 
 ### 🛠 Tech Stack
-* **Languages:** R (Tidyverse, Bioconductor), Python (Pandas, Scipy), 
+* **Languages:** R , Python (Pandas, Numpy, Matplotlib, Seaborn), 
 * **Tools:** Power BI, Excel (Power Query), 
 * **Statistical Methods:** Regression Analysis, Hypothesis Testing, Predictive Modeling
   
